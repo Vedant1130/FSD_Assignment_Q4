@@ -5,7 +5,7 @@ function App() {
     const users = [
         {
             name: "Vedant Saparia",
-            image: "/profile.jpg",
+            image: "https://placehold.co/200x200/764ba2/ffffff?text=Vedant",
             description:
                 "MCA student passionate about web development, cloud computing, and DevOps."
         },
